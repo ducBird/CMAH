@@ -1,0 +1,36 @@
+.li-nav {
+  transition: all 0.2s ease-in;
+}
+.li-nav:hover {
+  background-color: #fff;
+  color: #005745;
+}
+
+.li-nav:hover > .sub-nav-shop {
+  display: inline-block;
+}
+
+.sub-nav-shop {
+  display: none;
+  border-radius: 12px;
+  color: #005745;
+  min-width: 160px;
+  position: absolute;
+  top: 100%;
+  left: 0;
+  background-color: #fff;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+.sub-nav-shop > li {
+  width: 300px;
+  padding: 5px 50px 5px 10px;
+  transition: all 0.2s ease-in;
+  border-radius: 12px;
+}
+
+.sub-nav-shop > li:hover {
+  color: #fff;
+  background-color: #005745;
+  padding: 15px 50px 15px 10px;
+}

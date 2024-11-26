@@ -1,0 +1,10 @@
+.ant-form-item {
+  margin: 0;
+}
+.ant-col {
+  margin: 0;
+}
+.ant-btn {
+  align-items: center;
+  display: flex;
+}

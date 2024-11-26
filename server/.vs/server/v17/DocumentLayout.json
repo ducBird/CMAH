@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|d:\\studyweb\\dotnet\\cmahdotnetapi\\server\\server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|solutionrelative:server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|d:\\studyweb\\dotnet\\cmahdotnetapi\\server\\server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|solutionrelative:server\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|d:\\studyweb\\dotnet\\cmahdotnetapi\\server\\server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|solutionrelative:server\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|d:\\studyweb\\dotnet\\cmahdotnetapi\\server\\server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|solutionrelative:server\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|d:\\studyweb\\dotnet\\cmahdotnetapi\\server\\server\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{59A65426-1698-44B4-9E36-EE1FD14C519A}|server\\server.csproj|solutionrelative:server\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "server\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAkwE4AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T14:33:45.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Program.cs",
+              "RelativeDocumentMoniker": "server\\Program.cs",
+              "ToolTip": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Program.cs",
+              "RelativeToolTip": "server\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T13:43:30.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "server\\Models\\Category.cs",
+              "ToolTip": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Models\\Category.cs",
+              "RelativeToolTip": "server\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T10:01:04.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "server\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "server\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAA2wGYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T09:26:13.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "server\\Data\\DataContext.cs",
+              "ToolTip": "D:\\StudyWeb\\DOTNET\\CMAHDotNetAPI\\server\\server\\Data\\DataContext.cs",
+              "RelativeToolTip": "server\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T15:18:15.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

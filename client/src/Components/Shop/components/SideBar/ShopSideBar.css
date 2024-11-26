@@ -1,0 +1,7 @@
+.toggle_list li {
+  margin: 10px 0px;
+}
+
+.toggle_list li:hover {
+  color: red;
+}

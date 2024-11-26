@@ -1,0 +1,44 @@
+.btn__radius::before {
+  position: absolute;
+  content: "";
+  height: 20rem;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  opacity: 0;
+}
+.btn__radius:hover.btn__radius::before {
+  opacity: 1;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: all linear 0.5s;
+}
+.btn__images {
+  display: none;
+}
+.btn__hover:hover .btn__images {
+  display: block;
+}
+
+/* .btn__product {
+  transition: transform linear 0.1s;
+  will-change: transform;
+}
+.btn__product:hover {
+  transform: translateY(-4px);
+} */
+.slick-slider {
+  margin: 100px;
+}
+.btn__nextprev:hover .slick-arrow.slick-next {
+  opacity: 1;
+  cursor: pointer;
+  z-index: 1;
+}
+.btn__nextprev:hover .slick-arrow.slick-prev {
+  z-index: 1;
+  opacity: 1;
+}
+.slick-arrow.slick-next {
+  z-index: 1;
+  opacity: 0;
+}

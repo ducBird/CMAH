@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components {
+  /* Header/Navi/Navbar.jsx */
+  .li-nav {
+    @apply rounded-tr-md rounded-bl-md rounded-br-3xl rounded-tl-3xl  px-[30px] py-[6px] my-[10px] flex items-center gap-1;
+  }
+  .nav-user {
+    @apply rounded-tr-md rounded-bl-md rounded-br-3xl rounded-tl-3xl;
+  }
+  .add-to-card {
+    @apply rounded-tr-sm rounded-bl-sm rounded-br-3xl rounded-tl-3xl  px-[20px] py-[2px] my-[10px]  items-center gap-1;
+  }
+
+  .container {
+    @apply my-0 mx-auto py-[20px] px-0;
+  }
+  body {
+    @apply overflow-x-hidden;
+  }
+}
